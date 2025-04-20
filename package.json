@@ -1,0 +1,21 @@
+{
+  "name": "vscode-rit-theme",
+  "displayName": "VSCode RIT Theme",
+  "description": "why the hell are you subjecting yourself to this",
+  "version": "1",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "VSCode RIT Theme",
+        "uiTheme": "vs",
+        "path": "./themes/VSCode RIT Theme-color-theme.json"
+      }
+    ]
+  }
+}
